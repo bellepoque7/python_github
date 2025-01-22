@@ -8,5 +8,4 @@ def get_tips():
 
 
 def print_get():
-    print('테스트 확인')
     return '일어나세요 용사여'
