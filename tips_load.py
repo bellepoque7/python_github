@@ -18,6 +18,8 @@ if __name__ == '__main__':
     ''')
     choice = input()
     if choice == '1':
+        print('tips 로드가 완료되었습니다.')
         get_tips()
     elif choice == '2':
+        print('print_get 함수가 실행되었습니다.')
         print_get()
