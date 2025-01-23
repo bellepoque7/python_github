@@ -5,7 +5,7 @@ from google.cloud import bigquery
 import tips_load
 
 
-key_path = './sprata5-a1095a362816.json'
+key_path = './sparta5challenge-47b62ae5f17f.json'
 credentials = service_account.Credentials.from_service_account_file(key_path)
 
 
