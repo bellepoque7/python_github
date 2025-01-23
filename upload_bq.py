@@ -1,6 +1,5 @@
 import sys
 print(sys.version)
-from google.colab import files
 from google.oauth2 import service_account
 from google.cloud import bigquery
 import tips_load
